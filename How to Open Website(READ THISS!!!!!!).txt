@@ -1,0 +1,1 @@
+Open this Component Folder in Vs Code then Go Live, Home(Index) page is in Homepage folder
